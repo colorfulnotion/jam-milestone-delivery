@@ -64,8 +64,8 @@ We fully intend to engage in the full validator path [M3, M4, M5] in 2026-2027 a
 
 We propose the following for Fellowship membership in M1:
 
-* [Michael Chung](https://github.com/mkchungs) for Rank 3
-* [Shawn Chung](https://github.com/yoyo2325) for Rank 2
+* [Michael Chung](https://github.com/mkchungs) for Rank 2
+* [Shawn Chung](https://github.com/yoyo2325) for Rank 3
 
 Both can actively contribute to JAM's evolution and development with others in the Polkadot/JAM community.
 
